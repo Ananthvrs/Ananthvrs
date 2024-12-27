@@ -69,7 +69,7 @@ http://xstream.onecloudlive.in:8080/hls/sachintv_dhonitv/index.m3u8
 http://xstream.onecloudlive.in:8080/hls/sachintv_sachintvhd/index.m3u8
 #EXTINF:-1,THILLAI
 http://tcn.stream.onecloudlive.in:8080/tcn/tcn/index.m3u8
-#EXTINF:-1,RAAI MOVIES
+#EXTINF:-1,RASI MOVIES
 http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
 #EXTINF:-1,MN TV
 https://mntv.livebox.co.in/mntvhls/live.m3u8
