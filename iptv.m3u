@@ -292,7 +292,8 @@ https://allinonereborn.com/sonylive.m3u8?ch=SONYSIXHD&id=2020593
 #EXTINF:-1,SUNTV TATA PLAY test
 http://156.67.80.29/live/balaji/balaji/11838.ts
 
-#EXT-X-PLAYLIST-TYPE:VOD
+
+#EXTINF:-1,MOVIE TEST
 https://dl.vdocdn.com/openload/384ef9f81b61b7a3321051ca10b9e8f4/52f3cd55a6f517d605da23632873dc7620241228101207/2275bf/97b051/1735472113?dl=1
 #EXT-X-ENDLIST
 
