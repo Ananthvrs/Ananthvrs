@@ -608,7 +608,257 @@ https://tnm3u.in.net/channel/tamil.php?c=tamizhatv
 #EXTINF:-1  tvg-name="Nagai Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/naagaitv.png",Nagai Tv
 https://tnm3u.in.net/channel/tamil.php?c=naagaitv
 
-#EXTINF:-1  tvg-name
+#EXTINF:-1  tvg-name="Hari Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/haritv.png",Hari Tv
+https://tnm3u.in.net/channel/tamil.php?c=haritv
+
+#EXTINF:-1  tvg-name="Sri Krishna 2 Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/srikrishnatv.png",Sri Krishna 2 Tv
+https://tnm3u.in.net/channel/tamil.php?c=srikrishna2tv
+
+#EXTINF:-1  tvg-name="Ezhil Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/ezhiltv.png",Ezhil Tv
+https://tnm3u.in.net/channel/tamil.php?c=ezhiltv
+
+#EXTINF:-1  tvg-name="VDS Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/vdstv.png",VDS Tv
+https://tnm3u.in.net/channel/tamil.php?c=vds
+
+#EXTINF:-1  tvg-name="KMD Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/kmdtv.png",KMD Tv
+https://tnm3u.in.net/channel/tamil.php?c=kmdtv
+
+#EXTINF:-1  tvg-name="Auro HD" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/auro.png",Auro HD
+http://ptuf.ridsys.in/riptv/live/stream233/index.m3u8
+
+#EXTINF:-1  tvg-name="Aadhavan Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/aadhavantamil.png",Aadhavan Tv
+https://tnm3u.in.net/channel/tamil.php?c=aadhavantvhd
+
+#EXTINF:-1  tvg-name="Sangamam Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/sangamam.png",Sangamam Tv
+https://tnm3u.in.net/channel/tamil.php?c=sangamamhdtv
+
+#EXTINF:-1  tvg-name="Tamil Star" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/tamilstar.png",Tamil Star
+https://tnm3u.in.net/channel/tamil.php?c=tamilstar
+
+#EXTINF:-1  tvg-name="Surya Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/suryatv_1.png",Surya Tv
+https://tnm3u.in.net/channel/tamil.php?c=suryatv
+
+#EXTINF:-1  tvg-name="One Hollywood" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/onehollywood.png",One Hollywood 
+https://tnm3u.in.net/channel/tamil.php?c=onehollywood
+
+#EXTINF:-1  tvg-name="One Movies" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/onemovies.png",One Movies
+https://tnm3u.in.net/channel/tamil.php?c=onemovies
+
+#EXTINF:-1  tvg-name="PR Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/prtv.png",PR Tv
+https://tnm3u.in.net/channel/tamil.php?c=prtv
+
+#EXTINF:-1  tvg-name="Durais Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/duraistv.png",Durais Tv
+https://tnm3u.in.net/channel/tamil.php?c=duraistv
+
+#EXTINF:-1  tvg-name="Vanavil Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/vanaviltv.png",Vanavil Tv
+https://tnm3u.in.net/channel/tamil.php?c=vanaviltv
+
+#EXTINF:-1  tvg-name="Thirumagal Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/thirumagal.png",Thirumagal Tv
+https://tnm3u.in.net/channel/tamil.php?c=thirumagaltv
+
+#EXTINF:-1  tvg-name="Dark Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/dark.png",Dark Tv
+https://tnm3u.in.net/channel/tamil.php?c=darktv
+
+#EXTINF:-1  tvg-name="Image Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/imagetv.png",Image Tv
+https://tnm3u.in.net/channel/tamil.php?c=imagetv
+
+#EXTINF:-1  tvg-name="Riya Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/riyatv.png",Riya Tv
+https://tnm3u.in.net/channel/tamil.php?c=riyatv
+
+#EXTINF:-1  tvg-name="Apple Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/jctv.png",Apple Tv
+https://tnm3u.in.net/channel/tamil.php?c=apple-jc
+
+#EXTINF:-1  tvg-name="S Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/stv.png",S Tv
+https://tnm3u.in.net/channel/tamil.php?c=7star-stv
+
+#EXTINF:-1  tvg-name="Bama HD" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/bamahd.png",Bama HD
+https://tnm3u.in.net/channel/tamil.php?c=bamahd
+
+#EXTINF:-1  tvg-name="Jayaam Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/jayaamtv.png",Jayaam Tv
+https://tnm3u.in.net/channel/tamil.php?c=7star-jayaamtv
+
+#EXTINF:-1  tvg-name="Sangamam Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/namathusangamam.png",Sangamam Tv
+https://tnm3u.in.net/channel/tamil.php?c=namathusangamam
+
+#EXTINF:-1  tvg-name="Nellai Times" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/nellaitimes.png",Nellai Times
+https://tnm3u.in.net/channel/tamil.php?c=nellaitimes
+
+#EXTINF:-1  tvg-name="Shalini Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/shalinitv.png",Shalini Tv
+https://tnm3u.in.net/channel/tamil.php?c=ip-shalinitv
+
+#EXTINF:-1  tvg-name="Gem Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/gem.png",Gem Tv
+https://tnm3u.in.net/channel/tamil.php?c=gemtv
+
+#EXTINF:-1  tvg-name="Thamil Aaram Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/thamilaaramtv.png",Thamil Aaram Tv
+https://tnm3u.in.net/channel/tamil.php?c=thamilaaram
+
+#EXTINF:-1  tvg-name="Royal HD" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/royalhd.png",Royal HD
+https://tnm3u.in.net/channel/tamil.php?c=royalhd
+
+#EXTINF:-1  tvg-name="Annai Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/annaitv.png",Annai Tv
+https://tnm3u.in.net/channel/tamil.php?c=annaitv-livebox
+
+#EXTINF:-1  tvg-name="Nila Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/nilatv_1.png",Nila Tv
+https://tnm3u.in.net/youtube/stream.php?c=@nilatv5471
+
+#EXTINF:-1  tvg-name="Jeeva Oli Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/jeevaolitv.png",Jeeva Oli Tv
+https://tnm3u.in.net/channel/tamil.php?c=jeevaoli
+
+#EXTINF:-1  tvg-name="JC Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/jctv.png",JC TV
+https://tnm3u.in.net/channel/tamil.php?c=jctv
+
+#EXTINF:-1  tvg-name="Adonai Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/adonaitv.png",Adonai Tv
+https://tnm3u.in.net/channel/tamil.php?c=adonaitv
+
+#EXTINF:-1  tvg-name="Hand Of Jesus Tv" group-title="Local " tvg-logo="http://tnm3u.live/icon/tamil/local/jesushand.png",Hand Of Jesus Tv
+https://tnm3u.in.net/channel/tamil.php?c=handofjesus
+
+#EXTINF:-1  tvg-name="Tamil Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/tamiltv.png",Tamil Tv
+https://tnm3u.in.net/channel/tamil.php?c=tamiltv
+
+#EXTINF:-1  tvg-name="Go Revival Tv" group-title="Local " tvg-logo="http://tnm3u.live/icon/tamil/local/gorivival.png",Go Revival Tv
+https://tnm3u.in.net/channel/tamil.php?c=gorevivaltv
+
+#EXTINF:-1  tvg-name="Rhema Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/rhematv.png",Rhema Tv
+https://tnm3u.in.net/channel/tamil.php?c=rheematv
+
+#EXTINF:-1  tvg-name="Truth Bible Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/truthbibletv.png",Truth Bible Tv
+https://tnm3u.in.net/channel/tamil.php?c=truthbibletv
+
+#EXTINF:-1  tvg-name="Mighty Jesus Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/mightytv.png",Mighty Jesus Tv
+https://tnm3u.in.net/channel/tamil.php?c=mightyjesus
+
+#EXTINF:-1  tvg-name="Matha Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/matha.png",Matha Tv
+https://tnm3u.in.net/channel/tamil.php?c=mathatv
+
+#EXTINF:-1  tvg-name="Apple Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/appletv.png",Apple Tv
+https://tnm3u.in.net/channel/tamil.php?c=appletv
+
+#EXTINF:-1  tvg-name="Asritha tv" group-title="Local Tamil" tvg-logo="",Asritha tv
+https://tnm3u.in.net/channel/tamil.php?c=asrithatv
+
+#EXTINF:-1  tvg-name="Deva Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/devatv.png",Deva Tv
+https://tnm3u.in.net/channel/tamil.php?c=devatv
+
+#EXTINF:-1  tvg-name="Digital Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/digitaltv.png",Digital Tv
+https://tnm3u.in.net/channel/tamil.php?c=
+
+#EXTINF:-1  tvg-name="Gospel Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/gospel.png",Gospel Tv
+https://tnm3u.in.net/channel/tamil.php?c=gospeltv
+
+#EXTINF:-1  tvg-name="Gospel Tvm" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/gospel.png",Gospel Tvm
+https://tnm3u.in.net/channel/tamil.php?c=gospeltvtvm
+
+#EXTINF:-1  tvg-name="Gtvmax Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/gtvhd.png",Gtvmax Tv
+https://tnm3u.in.net/channel/tamil.php?c=gtvmax
+
+#EXTINF:-1  tvg-name="Hai Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/haitv.png",Hai Tv"
+https://tnm3u.in.net/channel/tamil.php?c=haitv
+
+#EXTINF:-1  tvg-name="Hebronvision Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/hebrontv.png",Hebronvision Tv
+https://tnm3u.in.net/channel/tamil.php?c=hrbronvision
+
+#EXTINF:-1  tvg-name="Image Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/imagetv.png",Image Tv
+https://tnm3u.in.net/channel/tamil.php?c=imagetv
+
+#EXTINF:-1  tvg-name="Jesus Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/jesustv.png",Jesus Tv
+https://tnm3u.in.net/channel/tamil.php?c=jesustv
+
+#EXTINF:-1  tvg-name="Kumari Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/kumaritv.png",Kumari Tv
+https://tnm3u.in.net/channel/tamil.php?c=kumaritv
+
+#EXTINF:-1  tvg-name="Mariyaannai Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/mariyannaitv.png",Mariyaannai Tv
+https://tnm3u.in.net/channel/tamil.php?c=mariyaannaitv
+
+#EXTINF:-1  tvg-name="Media Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/media4.png",Media4 Tv
+https://tnm3u.in.net/channel/tamil.php?c=media4tv
+
+ #EXTINF:-1  tvg-name="Nanjilnatham Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/nanjilnatham.png",Nanjilnatham Tv
+https://tnm3u.in.net/channel/tamil.php?c=nanjilnathamtv
+
+#EXTINF:-1  tvg-name="PR Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/prtv.png",PR Tv
+https://tnm3u.in.net/channel/tamil.php?c=prtv
+
+#EXTINF:-1  tvg-name="Sha Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/shatv.png",Sha Tv
+https://tnm3u.in.net/channel/tamil.php?c=shatv
+
+#EXTINF:-1  tvg-name="Sri Vasanth Tv " group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/srivasanthtv.png",Sri Vasanth Tv
+https://tnm3u.in.net/channel/tamil.php?c=vasanthtv
+
+#EXTINF:-1  tvg-name="Winvision Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/winvision.png",Winvision Tv
+https://tnm3u.in.net/channel/tamil.php?c=winvision
+
+#EXTINF:-1  tvg-name="Cheran Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/cherantv.png",Cheran Tv
+https://tnm3u.in.net/channel/tamil.php?c=cherantv
+
+#EXTINF:-1  tvg-name="Enthiran Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/enthirantv.png",Enthiran Tv 
+https://tnm3u.in.net/channel/tamil.php?c=ethirantv
+
+#EXTINF:-1  tvg-name="Garudan Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/garudantv.png",Garudan Tv
+https://tnm3u.in.net/channel/tamil.php?c=garudantv
+
+#EXTINF:-1  tvg-name="GCV Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/gcv.png",GCV Tv
+https://tnm3u.in.net/channel/tamil.php?c=gcvtv
+
+#EXTINF:-1  tvg-name="Gospeltn Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/gospeltv.png",Gospeltn Tv
+https://tnm3u.in.net/channel/tamil.php?c=gospeltamilnadu
+
+#EXTINF:-1  tvg-name="Holyland Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/holyland.png",Holyland Tv
+https://tnm3u.in.net/channel/tamil.php?c=holylandtv
+
+#EXTINF:-1  tvg-name="Jesusalive Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/jesuslive.png",Jesusalive Tv
+https://tnm3u.in.net/channel/tamil.php?c=jesusalivetv
+
+#EXTINF:-1  tvg-name="Miriyam Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/miriyam.png",Miriyam Tv 
+https://tnm3u.in.net/channel/tamil.php?c=miriyamtv
+
+#EXTINF:-1  tvg-name="Riya Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/riyatv.png",Riya Tv
+https://tnm3u.in.net/channel/tamil.php?c=riyatv
+
+#EXTINF:-1  tvg-name="Samanyavision Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/samanwaya.png",Samanyavision Tv
+https://tnm3u.in.net/channel/tamil.php?c=samanyavisiontv
+
+#EXTINF:-1  tvg-name="Selfee Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/selfietv.png",Selfie Tv
+https://tnm3u.in.net/channel/tamil.php?c=selfietv
+
+#EXTINF:-1  tvg-name="Suryan Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/suriyantv.png",Suryan Tv 
+https://tnm3u.in.net/channel/tamil.php?c=suryantv
+
+#EXTINF:-1  tvg-name="Thalapathy Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/thalapathy.png",Thalapathyvj Tv
+https://tnm3u.in.net/channel/tamil.php?c=thalapathytv
+
+#EXTINF:-1  tvg-name="Vasan Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/vasantv.png",Vasan Tv
+https://tnm3u.in.net/channel/tamil.php?c=vasantv
+
+#EXTINF:-1  tvg-name="Vision Tv" group-title="Local Tamil" tvg-logo="",Vision Tv 
+https://tnm3u.in.net/channel/tamil.php?c=visiontv
+
+#EXTINF:-1  tvg-name="Phoenix Sports" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/phoenixsports.png",Phoenix Sports
+https://tnm3u.in.net/channel/tamil.php?c=phoenixsports
+
+#EXTINF:-1  tvg-name="Aaron Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/aaron.png",Aaron Tv 
+https://tnm3u.in.net/channel/tamil.php?c=aarontv
+
+#EXTINF:-1  tvg-name="Mariyamatha Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/mariyamatha.png",Mariyamatha Tv 
+https://tnm3u.in.net/channel/tamil.php?c=mariyamathatv
+
+#EXTINF:-1  tvg-name="Prime Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/primetv.png",Prime Tv
+https://tnm3u.in.net/channel/tamil.php?c=primetv
+
+#EXTINF:-1  tvg-name="TWOC Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/twoc.png",TWOC Tv 
+https://tnm3u.in.net/channel/tamil.php?c=twoctv
+
+#EXTINF:-1  tvg-name="V Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/vtv.png",V Tv
+https://tnm3u.in.net/channel/tamil.php?c=vtv
+
+#EXTINF:-1 tvg-name="Roja TV"  group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/rojatv.png",Roja TV
+https://tnm3u.in.net/channel/tamil.php?c=rojatv
+
+#EXTINF:-1  tvg-name="SAR TV Thirunelveli" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/sartv-thirunelveli.png", SAR TV Thirunelveli
+https://tnm3u.in.net/channel/tamil.php?c=sartv
+
+#EXTINF:-1  tvg-name="Sar Tv Valliyur" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/sartv-valliyur.png",Sar Tv Valliyur
+https://tnm3u.in.net/channel/tamil.php?c=sartv-valliyur
 
 #EXTINF:-1 group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png" tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SONYLIV", Sony BBC Earth HD
 https://allinonereborn.com/sonylive.m3u8?ch=SonyBBCEarthHD&id=2011907
