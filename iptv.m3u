@@ -1,29 +1,29 @@
-
-#EXTINF:-1  tvg-id="B" tvg-logo="https://banner2.cleanpng.com/20180414/sbw/avfu8rlet.webp" group-title="TAMIL TV",SUNTV
+#EXTM3U
+#EXTINF:-1  tvg-id="A" tvg-logo="https://banner2.cleanpng.com/20180414/sbw/avfu8rlet.webp" group-title="TAMIL TV",SUNTV
 http://localhost:5001/live/896.m3u8
 
-#EXTINF:-1  tvg-id="B" tvg-logo="https://i1.sndcdn.com/avatars-000433468134-1o8l5v-t240x240.jpg" group-title="TAMIL TV",VIJAY TV
+#EXTINF:-1  tvg-id="A" tvg-logo="https://i1.sndcdn.com/avatars-000433468134-1o8l5v-t240x240.jpg" group-title="TAMIL TV",VIJAY TV
 http://tv.cloudcdn.me/live.ts?channelId=43419&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 
-#EXTINF:-1  tvg-id="B" tvg-logo="https://upload.wikimedia.org/wikipedia/ta/0/08/%E0%AE%9C%E0%AF%80_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D.png" group-title="TAMIL TV",ZEE TAMIL
+#EXTINF:-1  tvg-id="A" tvg-logo="https://upload.wikimedia.org/wikipedia/ta/0/08/%E0%AE%9C%E0%AF%80_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D.png" group-title="TAMIL TV",ZEE TAMIL
 http://tv.cloudcdn.me/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 
-#EXTINF:-1  tvg-id="B" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/KTV_India_logo.png" group-title="TAMIL TV",K TV
+#EXTINF:-1  tvg-id="A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/KTV_India_logo.png" group-title="TAMIL TV",K TV
 http://localhost:5001/live/894.m3u8
 
-#EXTINF:-1  tvg-id="B" tvg-logo="https://v3img.voot.com/v3Storage/assets/colors-tamil-16x9-1645341495004.png" group-title="TAMIL TV",COLOURS TAMIL HD
+#EXTINF:-1  tvg-id="A" tvg-logo="https://v3img.voot.com/v3Storage/assets/colors-tamil-16x9-1645341495004.png" group-title="TAMIL TV",COLOURS TAMIL HD
 http://localhost:5001/live/429.m3u8
 
-#EXTINF:-1  tvg-id="B" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest?cb=20240315131957" group-title="TAMIL TV",SUN LIFE
+#EXTINF:-1  tvg-id="A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest?cb=20240315131957" group-title="TAMIL TV",SUN LIFE
 http://localhost:5001/live/682.m3u8
 
-#EXTINF:-1  tvg-id="B" tvg-logo="https://apiexcellent.com/images/television/product/sun-music-hd-television10446.webp" group-title="TAMIL TV",SUNMUSIC
+#EXTINF:-1  tvg-id="A" tvg-logo="https://apiexcellent.com/images/television/product/sun-music-hd-television10446.webp" group-title="TAMIL TV",SUNMUSIC
 http://localhost:5001/live/895.m3u8
 
-#EXTINF:-1  tvg-id="B" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest?cb=20191224113123" group-title="TAMIL TV",JAYA MAX
+#EXTINF:-1  tvg-id="A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest?cb=20191224113123" group-title="TAMIL TV",JAYA MAX
 http://localhost:5001/live/420.m3u8
 
-#EXTINF:-1  tvg-id="B" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Isai_Aruvi.jpeg/revision/latest?cb=20191224121230" group-title="TAMIL TV",ISAIYARUVI
+#EXTINF:-1  tvg-id="A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Isai_Aruvi.jpeg/revision/latest?cb=20191224121230" group-title="TAMIL TV",ISAIYARUVI
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 
 #EXTM3U
@@ -319,11 +319,11 @@ http://156.67.80.29/live/balaji/balaji/11838.ts
 #EXTINF:-1,MOVIE TEST
 https://dl.vdocdn.com/openload/384ef9f81b61b7a3321051ca10b9e8f4/52f3cd55a6f517d605da23632873dc7620241228101207/2275bf/97b051/1735472113?dl=1
 
-#EXTM3U
-#EXTINF:-1 tvg-id="A" tvg-logo="https://i.ibb.co/zfdbVSm/logo-1.png" group-title="TAMIL FM"
+
+#EXTINF:-1 tvg-id="B" tvg-logo="https://i.ibb.co/zfdbVSm/logo-1.png" group-title="TAMIL FM"
 https://psrlive2.listenon.in/anirud?ah=0e81749e37789e5fb8c290926ce87e3f
 
-#EXTINF:-1 tvg-id="A" tvg-logo="https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png" group-title="TAMIL FM"
+#EXTINF:-1 tvg-id="B" tvg-logo="https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png" group-title="TAMIL FM"
 https://psrlive2.listenon.in/arrlite?ah=0e81749e37789e5fb8c290926ce87e3f
 
 
