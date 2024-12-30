@@ -26,7 +26,7 @@ http://localhost:5001/live/682.m3u8
 #EXTINF:-1  tvg-id="B" tvg-logo="https://apiexcellent.com/images/television/product/sun-music-hd-television10446.webp" group-title="TAMIL TV",SUNMUSIC
 http://localhost:5001/live/895.m3u8
 
-#EXTINF:-1  tvg-id="B" tvg-logo="https://www.behance.net/gallery/205937949/PROMO-Template-JAYA-MAX?tracking_source=search_projects|Jaya+Max&l=11" group-title="TAMIL TV",JAYA MAX
+#EXTINF:-1  tvg-id="B" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest?cb=20191224113123" group-title="TAMIL TV",JAYA MAX
 http://localhost:5001/live/420.m3u8
 
 #EXTINF:-1  tvg-id="B" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Isai_Aruvi.jpeg/revision/latest?cb=20191224121230" group-title="TAMIL TV",ISAIYARUVI
