@@ -1,9 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="A" tvg-logo="https://i.ibb.co/zfdbVSm/logo-1.png" group-title="TAMIL FM"
-https://psrlive2.listenon.in/anirud?ah=0e81749e37789e5fb8c290926ce87e3f
-
-#EXTINF:-1 tvg-id="A" tvg-logo="https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png" group-title="TAMIL FM"
-https://psrlive2.listenon.in/arrlite?ah=0e81749e37789e5fb8c290926ce87e3f
 
 #EXTINF:-1  tvg-id="B" tvg-logo="https://banner2.cleanpng.com/20180414/sbw/avfu8rlet.webp" group-title="TAMIL TV",SUNTV
 http://localhost:5001/live/896.m3u8
@@ -324,5 +318,12 @@ http://156.67.80.29/live/balaji/balaji/11838.ts
 
 #EXTINF:-1,MOVIE TEST
 https://dl.vdocdn.com/openload/384ef9f81b61b7a3321051ca10b9e8f4/52f3cd55a6f517d605da23632873dc7620241228101207/2275bf/97b051/1735472113?dl=1
+
+#EXTM3U
+#EXTINF:-1 tvg-id="A" tvg-logo="https://i.ibb.co/zfdbVSm/logo-1.png" group-title="TAMIL FM"
+https://psrlive2.listenon.in/anirud?ah=0e81749e37789e5fb8c290926ce87e3f
+
+#EXTINF:-1 tvg-id="A" tvg-logo="https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png" group-title="TAMIL FM"
+https://psrlive2.listenon.in/arrlite?ah=0e81749e37789e5fb8c290926ce87e3f
 
 
