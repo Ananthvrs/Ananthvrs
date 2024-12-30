@@ -8,21 +8,30 @@ https://psrlive2.listenon.in/arrlite?ah=0e81749e37789e5fb8c290926ce87e3f
 #EXTINF:-1  tvg-id="B" tvg-logo="https://banner2.cleanpng.com/20180414/sbw/avfu8rlet.webp" group-title="TAMIL TV",SUNTV
 http://localhost:5001/live/896.m3u8
 
-#EXTM3U
-#EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-TARGETDURATION:10
-#EXT-X-VERSION:4
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1,
-http://localhost:5001/live/896.m3u8
-#EXTINF:-1,
-http://example.com/movie1/fileSequenceB.ts
-#EXTINF:-1,
-http://example.com/movie1/fileSequenceC.ts
-#EXTINF:-1,
-http://example.com/movie1/fileSequenceD.ts
-#EXT-X-ENDLIST
+#EXTINF:-1  tvg-id="B" tvg-logo="https://banner2.cleanpng.com/20180414/sbw/avfu8rlet.webp" group-title="TAMIL TV",VIJAY TV
+http://tv.cloudcdn.me/live.ts?channelId=43419&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 
+#EXTINF:-1  tvg-id="B" tvg-logo="https://banner2.cleanpng.com/20180414/sbw/avfu8rlet.webp" group-title="TAMIL TV",
+ZEE TAMIL
+http://tv.cloudcdn.me/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8:1A:B8
+
+#EXTINF:-1  tvg-id="B" tvg-logo="https://banner2.cleanpng.com/20180414/sbw/avfu8rlet.webp" group-title="TAMIL TV",K TV
+http://localhost:5001/live/894.m3u8
+
+#EXTINF:-1  tvg-id="B" tvg-logo="https://banner2.cleanpng.com/20180414/sbw/avfu8rlet.webp" group-title="TAMIL TV",COLOURS TAMIL HD
+http://localhost:5001/live/429.m3u8
+
+#EXTINF:-1  tvg-id="B" tvg-logo="https://banner2.cleanpng.com/20180414/sbw/avfu8rlet.webp" group-title="TAMIL TV",SUN LIFE
+http://localhost:5001/live/682.m3u8
+
+#EXTINF:-1  tvg-id="B" tvg-logo="https://banner2.cleanpng.com/20180414/sbw/avfu8rlet.webp" group-title="TAMIL TV",SUNMUSIC
+http://localhost:5001/live/895.m3u8
+
+#EXTINF:-1  tvg-id="B" tvg-logo="https://banner2.cleanpng.com/20180414/sbw/avfu8rlet.webp" group-title="TAMIL TV",JAYA MAX
+http://localhost:5001/live/420.m3u8
+
+#EXTINF:-1  tvg-id="B" tvg-logo="https://banner2.cleanpng.com/20180414/sbw/avfu8rlet.webp" group-title="TAMIL TV",ISAIYARUVI
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1,SUN TV
