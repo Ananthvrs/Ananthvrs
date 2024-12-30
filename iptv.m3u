@@ -13,13 +13,13 @@ http://localhost:5001/live/896.m3u8
 #EXT-X-TARGETDURATION:10
 #EXT-X-VERSION:4
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0,
+#EXTINF:-1,
 http://example.com/movie1/fileSequenceA.ts
-#EXTINF:10.0,
+#EXTINF:-1,
 http://example.com/movie1/fileSequenceB.ts
-#EXTINF:10.0,
+#EXTINF:-1,
 http://example.com/movie1/fileSequenceC.ts
-#EXTINF:9.0,
+#EXTINF:-1,
 http://example.com/movie1/fileSequenceD.ts
 #EXT-X-ENDLIST
 
