@@ -14,7 +14,7 @@ http://tv.cloudcdn.me/live.ts?channelId=43419&uid=6469&deviceMac=00:1A:79:B7:2F:
 #EXTINF:-1  tvg-id="B" tvg-logo="https://upload.wikimedia.org/wikipedia/ta/0/08/%E0%AE%9C%E0%AF%80_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D.png" group-title="TAMIL TV",ZEE TAMIL
 http://tv.cloudcdn.me/live.ts?channelId=128481&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 
-#EXTINF:-1  tvg-id="B" tvg-logo="https://en.m.wikipedia.org/wiki/File:KTV_India_logo.png" group-title="TAMIL TV",K TV
+#EXTINF:-1  tvg-id="B" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/KTV_India_logo.png" group-title="TAMIL TV",K TV
 http://localhost:5001/live/894.m3u8
 
 #EXTINF:-1  tvg-id="B" tvg-logo="https://v3img.voot.com/v3Storage/assets/colors-tamil-16x9-1645341495004.png" group-title="TAMIL TV",COLOURS TAMIL HD
