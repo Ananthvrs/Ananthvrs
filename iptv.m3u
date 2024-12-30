@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1, MOVIE TEST 
-https://dl.vdocdn.com/openload/384ef9f81b61b7a3321051ca10b9e8f4/52f3cd55a6f517d605da23632873dc7620241228101207/2275bf/97b051/1735472113?dl=1
-
+#EXTINF:-1, FM TEST
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1,SUN TV
