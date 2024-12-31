@@ -270,25 +270,25 @@ https://amit.allinonereborn.in/jiotv/app/ts_live_896.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 type="movie", Indian 2
+#EXTINF:-1 type="movie",group-title="🎬 Tamil Movies" Indian 2
 https://dl.kpsbots.workers.dev/dl/66bb0386324ad18a21a9572c
 
-#EXTINF:-1 type="movie", Maharaja
+#EXTINF:-1 type="movie",group-title="🎬 Tamil Movies" Maharaja
 https://dl.kpsbots.workers.dev/dl/669507a921f8092def50ff47
 
-#EXTINF:-1 type="movie", GOAT 2024
+#EXTINF:-1 type="movie",group-title="🎬 Tamil Movies" GOAT 2024
 https://dl.kpsbots.workers.dev/dl/66fe5979b50ec29ba3ea985d
 
-#EXTINF:-1 type="movie", Vaazhai
+#EXTINF:-1 type="movie",group-title="🎬 Tamil Movies" Vaazhai
 https://dl.kpsbots.workers.dev/dl/67094aac36582a08003ea6e3
 
-#EXTINF:-1 type="movie", Devara
+#EXTINF:-1 type="movie",group-title="🎬 Tamil Movies" Devara
 https://dl.kpsbots.workers.dev/dl/67342a7631e268415b1220fc
 
-#EXTINF:-1 type="movie", Amaran
+#EXTINF:-1 type="movie",group-title="🎬 Tamil Movies" Amaran
 https://dl.kpsbots.workers.dev/dl/675329b756d92efd7494e7c7
 
-#EXTINF:-1 type="movie", Sorgavaasal 
+#EXTINF:-1 type="movie",group-title="🎬 Tamil Movies" Sorgavaasal 
 https://dl.kpsbots.workers.dev/dl/676fd4569b6c77d7c8dd54ff
 
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU3ZjQwOWQtYzljNi00NzRjLWE0MDgtMGRmZmI5MTcwNjdjXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_FMjpg_UX1000_.jpg" group-title="🎬 Tamil Movies", Garudan
