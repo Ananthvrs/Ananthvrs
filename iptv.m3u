@@ -26,7 +26,7 @@ http://localhost:5001/live/420.m3u8
 #EXTINF:-1  tvg-id="A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Isai_Aruvi.jpeg/revision/latest?cb=20191224121230" group-title="TAMIL TV",ISAIYARUVI
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A" tvg-logo="" group-title="TAMIL",24/7: Tamil_2022_2021_Collection_vol_1 _4K
+#EXTINF:-1 tvg-id="A" tvg-logo="" group-title="TAMIL TV",24/7: Tamil_2022_2021_Collection_vol_1 _4K
 https://allinonereborn.com/cool.php?id=11458
 
 #EXTINF:-1,SUN TV
