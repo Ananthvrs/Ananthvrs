@@ -119,18 +119,7 @@ https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 http://localhost:5001/live/419.m3u8
 #EXTINF:-1,MK SIX
 http://localhost:5001/live/1647.m3u8
-#EXTINF:-1,TAMIL CINEMA 1
-https://allinonereborn.com/tatatv.php?id=45589
-#EXTINF:-1,TAMIL CINEMA 2
-https://allinonereborn.com/tatatv.php?id=45599
-#EXTINF:-1,TAMIL CINEMA 3
-https://allinonereborn.com/tatatv.php?id=45609
-#EXTINF:-1,TAMIL CINEMA 4
-https://allinonereborn.com/tatatv.php?id=45619
-#EXTINF:-1,TAMIL CINEMA 5
-https://allinonereborn.com/tatatv.php?id=45629
-#EXTINF:-1,TAMIL CINEMA 6
-https://allinonereborn.com/tatatv.php?id=59950
+
 #EXTINF:-1,VELUR TV
 http://xstream.onecloudlive.in:8080/hls/velurtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,R PLUS
@@ -293,22 +282,7 @@ http://localhost:5001/live/1219.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=43423&uid=15531&deviceMac=00:1A:79:09:2B:88
 #EXTINF:-1,KAIRALI
 http://localhost:5001/live/710.m3u8
-#EXTINF:-1,SPIX HD
-https://allinonereborn.com/sonylive.m3u8?ch=PIXHD&id=2011748
-#EXTINF:-1,star sports test
-https://allinonereborn.com/tatatv.php?id=12154
-#EXTINF:-1,STAR VIJAY TATA PLAY
-https://allinonereborn.com/tatatv.php?id=8670
-#EXTINF:-1,VIJAY SUPER 2
-https://allinonereborn.com/tatatv.php?id=831
-#EXTINF:-1,Zee tamil 2
-https://allinonereborn.com/tatatv.php?id=1122
-#EXTINF:-1,ZEE THIRAI 2
-https://allinonereborn.com/tatatv.php?id=11756
-#EXTINF:-1,SUNTV TATA PLAY
-https://allinonereborn.com/tatatv.php?id=927
-#EXTINF:-1,SUNTV jio
-https://amit.allinonereborn.in/jiotv/app/ts_live_896.m3u8
+
 
 #EXTM3U
 
