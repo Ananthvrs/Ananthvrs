@@ -29,6 +29,10 @@ https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="A" tvg-logo="" group-title="TAMIL TV",24/7: Tamil_2022_2021_Collection_vol_1 _4K
 https://allinonereborn.com/cool.php?id=11458
 
+
+#EXTINF:-1 tvg-id="A" tvg-logo="" group-title="TAMIL TV",24/7: TAMIL MOVIES Action 1 _FHD
+https://allinonereborn.com/cool.php?id=9761
+
 #EXTINF:-1,SUN TV
 http://localhost:5001/live/896.m3u8
 #EXTINF:-1,VIJAY TV
