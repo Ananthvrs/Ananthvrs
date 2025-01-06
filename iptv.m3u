@@ -880,9 +880,6 @@ https://tnm3u.in.net/channel/tamil.php?c=thalapathytv
 #EXTINF:-1  tvg-name="Vasan Tv" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/vasantv.png",Vasan Tv
 https://tnm3u.in.net/channel/tamil.php?c=vasantv
 
-#EXTINF:-1  tvg-name="Vision Tv" group-title="Local Tamil" tvg-logo="",Vision Tv 
-https://tnm3u.in.net/channel/tamil.php?c=visiontv
-
 #EXTINF:-1  tvg-name="Phoenix Sports" group-title="Local Tamil" tvg-logo="http://tnm3u.live/icon/tamil/local/phoenixsports.png",Phoenix Sports
 https://tnm3u.in.net/channel/tamil.php?c=phoenixsports
 
