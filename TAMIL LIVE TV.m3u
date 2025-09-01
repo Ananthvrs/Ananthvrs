@@ -1,0 +1,201 @@
+
+#EXTINF:-1,SUN TV
+http://localhost:5350/live/896.m3u8
+#EXTINF:-1,K TV
+http://localhost:5350/live/894.m3u8
+#EXTINF:-1,COLOURS TAMIL HD
+http://localhost:5350/live/429.m3u8
+#EXTINF:-1,SUN LIFE
+http://localhost:5350/live/682.m3u8
+#EXTINF:-1,SUNMUSIC
+http://localhost:5350/live/895.m3u8
+#EXTINF:-1,JAYA MAX
+http://localhost:5350/live/420.m3u8
+#EXTINF:-1,ISAIYARUVI
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1,RAJ MUSIX
+http://localhost:5350/live/748.m3u8
+#EXTINF:-1,MK MUSIC
+http://localhost:5350/live/845.m3u8
+#EXTINF:-1,6 TUNES
+http://localhost:5350/live/803.m3u8
+#EXTINF:-1,KALAIGNER
+http://localhost:5350/live/1209.m3u8
+#EXTINF:-1,ADHITHYA
+http://localhost:5350/live/709.m3u8
+#EXTINF:-1,SIRIPOLI
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1,RAJ DIGITAL PLUS
+http://localhost:5350/live/683.m3u8
+#EXTINF:-1,J MOVIES
+http://localhost:5350/live/417.m3u8
+#EXTINF:-1,MK TV
+http://localhost:5350/live/847.m3u8
+#EXTINF:-1,JAYA TV
+http://localhost:5350/live/419.m3u8
+#EXTINF:-1,MK SIX
+http://localhost:5350/live/1647.m3u8
+
+#EXTINF:-1,VELUR TV
+http://xstream.onecloudlive.in:8080/hls/velurtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,R PLUS
+http://rplustv.stream.onecloudlive.in:8080/rplustv/rplustvhd/index.m3u8
+#EXTINF:-1,N VISSION MUSIC
+http://xstream.onecloudlive.in:8080/hls/skymusic/index.m3u8
+#EXTINF:-1,ASHOKA
+http://ashoka.7starcloud.com:1935/ashoka/channel/playlist.m3u8
+#EXTINF:-1,RAJA
+http://brightmeltech.in/rajatv/rajatv.m3u8
+#EXTINF:-1,ABHINAYA TV
+http://xstream.onecloudlive.in:8080/hls/abinayatv/index.m3u8
+#EXTINF:-1,ASHOKA2
+http://xstream.onecloudlive.in:8080/hls/asokatv/index.m3u8
+#EXTINF:-1,DHONI
+http://xstream.onecloudlive.in:8080/hls/sachintv_dhonitv/index.m3u8
+#EXTINF:-1,SACHIN
+http://xstream.onecloudlive.in:8080/hls/sachintv_sachintvhd/index.m3u8
+#EXTINF:-1,THILLAI
+http://tcn.stream.onecloudlive.in:8080/tcn/tcn/index.m3u8
+#EXTINF:-1,RASI MOVIES
+http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
+#EXTINF:-1,MN TV
+https://mntv.livebox.co.in/mntvhls/live.m3u8
+#EXTINF:-1,TAMIL STAR TV
+https://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8
+#EXTINF:-1,MN MUSIC
+https://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1,RIO
+http://xstream.onecloudlive.in:8080/hls/riotvhd/index.m3u8
+#EXTINF:-1,MAA TV
+https://live.singamcloud.in/maatv/maatv/index.m3u8
+#EXTINF:-1,KANCHI TV
+http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
+#EXTINF:-1,TTV
+http://198.144.149.206:8080/NOTV/TTV/index.m3u8?token=GTR
+#EXTINF:-1,ADHVIK
+http://xstream.onecloudlive.in:8080/hls/sachintv_aadviktv/index.m3u8
+#EXTINF:-1,ARTHI
+http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
+#EXTINF:-1,RNR
+http://stream.onecloudlive.in:8080/rnr/rnrhd/index.m3u8
+#EXTINF:-1,AKASH TV
+https://account2.livebox.co.in/AkashTvhls/live.m3u8
+#EXTINF:-1,G HD TV
+https://live.singamcloud.in/gtv/gtv/index.m3u8
+#EXTINF:-1,KARTHIK
+http://xstream.onecloudlive.in:8080/hls/karthick_karthicktv/index.m3u8
+#EXTINF:-1,R TV
+https://live.singamcloud.in/rtv/rtv/index.m3u8
+#EXTINF:-1,SMC TV
+https://singamcloud.in/smcvtv/smcvtv/index.m3u8
+#EXTINF:-1,SASI
+http://sasitv.phoenixcreations.online:1935/sasitv/sasitv/playlist.m3u8
+#EXTINF:-1,SOORIYAN TV
+http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+#EXTINF:-1,EE TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1,VASANTHAM
+https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efadcf7986aa245789/tracks-v1a1/rewind-3600.m3u8
+#EXTINF:-1,WORLD TV
+http://198.144.149.206:8080/NOTV/IWORLDHD/index.m3u8?token=GTR
+#EXTINF:-1,4K MAX
+http://198.144.149.206:8080/NOTV/YAALTV/index.m3u8?token=GTR
+#EXTINF:-1,AASAI TV
+http://server.sscloud7.in/aasaitv/aasaitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MKP TV
+http://103.219.206.189:1935/mkptv/myStream/playlist.m3u8
+#EXTINF:-1,SANA TV
+https://galaxyott.live/hls/sanatv.m3u8
+#EXTINF:-1,SS TV
+https://server.sscloud7.in/live/sshd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PARAMAS
+http://j.7starcloud.com:1935/live/params/playlist.m3u8
+#EXTINF:-1,POLIMER
+http://localhost:5350/live/705.m3u8
+#EXTINF:-1,VAANAVIL
+http://localhost:5350/live/971.m3u8
+#EXTINF:-1,RAJ TV
+http://localhost:5350/live/707.m3u8
+#EXTINF:-1,VENDHAR
+http://localhost:5350/live/857.m3u8
+#EXTINF:-1,PEPPERS
+http://localhost:5350/live/796.m3u8
+#EXTINF:-1,MOON TV
+http://localhost:5350/live/1518.m3u8
+#EXTINF:-1,THANTHI ONE
+https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
+#EXTINF:-1,DD POTHIGAI
+http://localhost:5350/live/726.m3u8
+#EXTINF:-1,VASANTH TV
+http://localhost:5350/live/727.m3u8
+#EXTINF:-1,PUTHUYUGAM
+http://localhost:5350/live/824.m3u8
+#EXTINF:-1,MAKKAL
+http://localhost:5350/live/708.m3u8
+#EXTINF:-1,VELICHAM
+http://localhost:5350/live/3004.m3u8
+#EXTINF:-1,MATHIMUGAM
+http://localhost:5350/live/843.m3u8
+#EXTINF:-1,CHUTTI TV
+http://localhost:5350/live/557.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://localhost:5350/live/817.m3u8
+#EXTINF:-1,CARTOON NETWORK HD+
+http://localhost:5350/live/1081.m3u8
+#EXTINF:-1,POGO
+http://localhost:5350/live/542.m3u8
+#EXTINF:-1,NICK TAMIL
+http://localhost:5350/live/546.m3u8
+#EXTINF:-1,SONIC TAMIL
+http://localhost:5350/live/290.m3u8
+#EXTINF:-1,DISNEY KIDS
+http://localhost:5350/live/550.m3u8
+#EXTINF:-1,POLIMER NEWS
+http://localhost:5350/live/636.m3u8
+#EXTINF:-1,NEWS TAMIL 24/7
+http://localhost:5350/live/1954.m3u8
+#EXTINF:-1,NEWS 18 TAMILNADU
+http://localhost:5350/live/615.m3u8
+#EXTINF:-1,SUN NEWS
+http://localhost:5350/live/676.m3u8
+#EXTINF:-1,NEWS 7
+http://localhost:5350/live/673.m3u8
+#EXTINF:-1,PUTHIYA THALAIMURAI
+http://localhost:5350/live/677.m3u8
+#EXTINF:-1,THANTHI TV
+http://localhost:5350/live/830.m3u8
+#EXTINF:-1,SATHYAM
+http://localhost:5350/live/671.m3u8
+#EXTINF:-1,RAJ NEWS
+http://localhost:5350/live/767.m3u8
+#EXTINF:-1,ZEE TAMIL NEWS
+https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
+#EXTINF:-1,MALAI MURASU
+http://localhost:5350/live/826.m3u8
+#EXTINF:-1,KALAIGNER NEWS
+http://localhost:5350/live/1210.m3u8
+#EXTINF:-1,JAYA PLUS
+http://localhost:5350/live/418.m3u8
+#EXTINF:-1,NEWS J
+http://localhost:5350/live/1515.m3u8
+#EXTINF:-1,WIN NEWS
+http://localhost:5350/live/970.m3u8
+#EXTINF:-1,TAMILAN TV
+http://localhost:5350/live/2958.m3u8
+#EXTINF:-1,TAMIL JANAM
+http://localhost:5350/live/3045.m3u8
+#EXTINF:-1,SANKARA
+http://localhost:5350/live/829.m3u8
+#EXTINF:-1,SAI TV
+http://localhost:5350/live/937.m3u8
+#EXTINF:-1,JOTHI TV
+http://localhost:5350/live/2768.m3u8
+#EXTINF:-1,DISCOVERY TAMIL
+http://localhost:5350/live/569.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://localhost:5350/live/1219.m3u8
+#EXTINF:-1,zee tamil test
+http://tv.cloudcdn.me/live.ts?channelId=43423&uid=15531&deviceMac=00:1A:79:09:2B:88
+#EXTINF:-1,KAIRALI
+http://localhost:5350/live/710.m3u8
+
