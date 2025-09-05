@@ -39,7 +39,7 @@ http://localhost:5350/live/419.m3u8
 http://localhost:5350/live/1647.m3u8
 
 #EXTINF:-1,VELUR TV
-http://xstream.onecloudlive.in:8080/hls/velurtv/tracks-v1a1/mono.m3u8
+http://bass.stream.onecloudlive.in:8080/bass/velurtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,R PLUS
 http://rplustv.stream.onecloudlive.in:8080/rplustv/rplustvhd/index.m3u8
 #EXTINF:-1,N VISSION MUSIC
