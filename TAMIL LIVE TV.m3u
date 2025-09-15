@@ -42,10 +42,6 @@ http://localhost:5350/live/1647.m3u8
 http://bass.stream.onecloudlive.in:8080/bass/velurtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,R PLUS
 http://rplustv.stream.onecloudlive.in:8080/rplustv/rplustvhd/index.m3u8
-#EXTINF:-1,N VISSION MUSIC
-http://xstream.onecloudlive.in:8080/hls/skymusic/index.m3u8
-#EXTINF:-1,ASHOKA
-http://ashoka.7starcloud.com:1935/ashoka/channel/playlist.m3u8
 #EXTINF:-1,RAJA
 http://brightmeltech.in/rajatv/rajatv.m3u8
 #EXTINF:-1,ABHINAYA TV
