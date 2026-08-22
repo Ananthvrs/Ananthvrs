@@ -131,8 +131,6 @@ https://notvstream.in/queens/queens/index.m3u8
 https://w6oy7zkpdxrg-hls-live.5centscdn.com/THENDRALHD/aac0b08f91370cd39f61343d2b6e8069.sdp/playlist.m3u8
 #EXTINF:-1, Namma Gobi TV
 https://cdn1.rojatv.cloud/nammagobi/tv/index.m3u8
-#EXTINF:-1, RJ Tamil
-https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
 #EXTINF:-1, Aadhavan Colours [APServer]
 https://view.apserver.in/tmp_hls4/aadhavancolours/index.m3u8
 #EXTINF:-1, MSN TV
@@ -147,8 +145,6 @@ https://rtmp.bmlive.net/kingtv/kingtv/stream.m3u8
 https://stream.onecloudlive.in/threestartv/threestarhd/index.mpd
 #EXTINF:-1, Shalini TV Tiruvannamalai
 https://ipcloud.live/shalinitv/shalinitv/index.m3u8
-#EXTINF:-1, JCV
-https://play.applelive.in/jcvtv/jcvtv.m3u8
 #EXTINF:-1, Hai TV
 https://play.applelive.in/stv/stv.m3u8
 #EXTINF:-1, JJ News Tamil
@@ -275,12 +271,12 @@ https://live.singamcloud.in/bsctv/bsctv/index.m3u8
 https://server.sscloud7.in/kingtv/kingtv/index.m3u8
 #EXTINF:-1, KM Television
 https://stream.ashokadigital.net/KMTELEVISION/kmtelevision/index.m3u8?token=dHVsbml0aXNhZHVtZHVt
-#EXTINF:-1, Tamilnesan TV
-https://view.rcserver.in/tmp_hls14/tntv/index.m3u8
 #EXTINF:-1, Thirai TV [APServer]
 https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
 #EXTINF:-1, Thirai Music
 https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
+#EXTINF:-1, Thirai Music [APServer]
+https://live.apcloud.in/thiraimusic/thiraimusichd/index.m3u8
 #EXTINF:-1, Bharathi Thirai Ulagam
 https://bharathitv2-sscloud7-in.proxy.nellaiiptv.com/live/bharathithiraiulagam/index.m3u8
 #EXTINF:-1, CTN Conoor
@@ -291,6 +287,8 @@ https://stream.ashokadigital.net/voicetv/voicetvhd/index.m3u8
 https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
 #EXTINF:-1, Emperor TV
 https://rtmp.bmlive.net/bms/emperortv/stream.m3u8
+#EXTINF:-1, Jayam TV Tenkasi
+https://ipcloud.live/jayamtv/jayamtvhd/index.m3u8?token=jayamtv
 #EXTINF:-1, Jayam TV Namakkal
 https://rtmp.bmlive.net/bms/jayamtv/stream.m3u8
 #EXTINF:-1, MCN Marthandam
@@ -527,8 +525,6 @@ https://ipcloud.live/mathantv/mathantv/index.mpd
 https://rtmp.applelive.in/rplus/rplus/index.m3u8
 #EXTINF:-1, City TV
 https://stream.onecloudlive.in/citytv/citytv/index.m3u8
-#EXTINF:-1, Shalwin TV
-https://live3.onecloudlive.in/shalwintv/shalwintv/index.m3u8
 #EXTINF:-1, TTN TV
 https://web.applelive.in/stream/ttntv/index.m3u8
 #EXTINF:-1, Omm TV Nagercoil
@@ -545,8 +541,6 @@ https://app.ashokadigital.net/app/0fca457c/index.m3u8
 https://apis.avmediawork.in/tvhls/stv.m3u8
 #EXTINF:-1, Royal TV Guduvancheri
 https://cloudstream4k.com/jptvhd/bsk/playlist.m3u8
-#EXTINF:-1, Lion TV
-https://stream.iplive.xyz/smmedia/liontv/index.m3u8
 #EXTINF:-1, ATN [RojaTV]
 https://stream.rojatv.cloud/ATNHD/onecloud/index.m3u8
 #EXTINF:-1, Lucky TV
@@ -601,8 +595,6 @@ https://app.xstream.onecloudlive.in/pgtv/pgtvhd/index.m3u8
 https://live.primestream.in/prime/music/index.m3u8
 #EXTINF:-1, Shakthi Channel
 https://cloudstream4k.com/shakthihd/bsk/playlist.m3u8
-#EXTINF:-1, D TV
-https://view.rcserver.in/tmp_hls33/dtv/index.m3u8?token=YW1hemV5
 #EXTINF:-1, Pothigai Prime
 https://view.apserver.in/tmp_hls5/pothigaiprime/index.m3u8
 #EXTINF:-1, Idhayam TV
@@ -659,8 +651,6 @@ https://1.proxy.nellaiiptv.com/srivinayagatv/movies/index.m3u8
 https://1.proxy.nellaiiptv.com/srivinayagatv/hollywood/playlist.m3u8
 #EXTINF:-1, PN TV
 https://stream.onecloudlive.in/pntv/pntv/index.m3u8
-#EXTINF:-1, Sun Smart TV
-https://live3.onecloudlive.in/sunsmart/sunsmarttvhd/index.m3u8
 #EXTINF:-1, Sun Smart TV [VK Digital]
 https://real-vk.proxy.nellaiiptv.com/SUNSMARTTV/index.m3u8
 #EXTINF:-1, SD Media (No Signal)
