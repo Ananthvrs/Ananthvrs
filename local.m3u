@@ -257,8 +257,6 @@ https://mumt07.tangotv.in/zHjX9OFlABITV/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlUTVANANDAM/index.m3u8
 #EXTINF:-1, Ragam TV
 https://account26.livebox.co.in/RAGAMMTPhls/live.m3u8
-#EXTINF:-1, Vaani Visuals
-https://vaanivisualsin.proxy.nellaiiptv.com/vaanitv/vaanitv/index.m3u8
 #EXTINF:-1, KCN TV
 https://view.rcserver.in/tmp_hls12/kcntv/index.m3u8
 #EXTINF:-1, Thirumalai TV Vadipatti
@@ -277,16 +275,12 @@ https://live.singamcloud.in/bsctv/bsctv/index.m3u8
 https://server.sscloud7.in/kingtv/kingtv/index.m3u8
 #EXTINF:-1, KM Television
 https://stream.ashokadigital.net/KMTELEVISION/kmtelevision/index.m3u8?token=dHVsbml0aXNhZHVtZHVt
-#EXTINF:-1, Udhayam TV Madurai
-https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8
 #EXTINF:-1, Tamilnesan TV
 https://view.rcserver.in/tmp_hls14/tntv/index.m3u8
 #EXTINF:-1, Thirai TV [APServer]
 https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
 #EXTINF:-1, Thirai Music
 https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
-#EXTINF:-1, Thirai Music [APServer]
-https://live.apcloud.in/thiraimusic/thiraimusichd/index.m3u8
 #EXTINF:-1, Bharathi Thirai Ulagam
 https://bharathitv2-sscloud7-in.proxy.nellaiiptv.com/live/bharathithiraiulagam/index.m3u8
 #EXTINF:-1, CTN Conoor
@@ -297,8 +291,6 @@ https://stream.ashokadigital.net/voicetv/voicetvhd/index.m3u8
 https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
 #EXTINF:-1, Emperor TV
 https://rtmp.bmlive.net/bms/emperortv/stream.m3u8
-#EXTINF:-1, Jayam TV Tenkasi
-https://ipcloud.live/jayamtv/jayamtvhd/index.m3u8?token=jayamtv
 #EXTINF:-1, Jayam TV Namakkal
 https://rtmp.bmlive.net/bms/jayamtv/stream.m3u8
 #EXTINF:-1, MCN Marthandam
@@ -639,8 +631,6 @@ https://5790d294af2dc.streamlock.net/aathitv/aathitv/playlist.m3u8
 https://5790d294af2dc.streamlock.net/mchanneltv24/mchanneltv24/playlist.m3u8
 #EXTINF:-1, Chola TV
 https://hlsstream.olidigital.in/cholatv/cholatv/index.m3u8?token=dHVsbml0X3N0ZWFsc19zaGl0
-#EXTINF:-1, Lime TV
-https://stream.iplive.xyz/limetv/limetvchannel/index.mpd
 #EXTINF:-1, Retro Music
 https://sanplayout.xyz/live2/retromusichd/playlist.m3u8
 #EXTINF:-1, Madurai Arasi TV
